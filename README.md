@@ -21,3 +21,7 @@ So, the File menu has Close item and then Save, but...
 4) Nib file doesn't have it
 5) Finally, File menu inside the build application does not have it
 6) Well, a mistery!
+
+Edit:
+
+7) so -isHidden returns NO for CloseAll but YES for the next item Revert
