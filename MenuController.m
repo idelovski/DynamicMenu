@@ -113,7 +113,7 @@ static NSString  *gNewMenuName = @"Templates";
       NSMenuItem  *mi = [fileMenu.itemArray objectAtIndex:i];
       BOOL         hasSubmenu = [mi hasSubmenu];
       
-      NSLog (@"%@ 0x%08x:  \"%@\"  tag:%d  action:%@  target:0x%08x", (hasSubmenu ? @"Menu" : @"Item"), (int)mi, [mi title], (int)[mi tag], [mi action] ? NSStringFromSelector([mi action]) : @"#", (int)[mi target]);
+      NSLog (@"%@ %@ 0x%08x:  \"%@\"  tag:%d  action:%@  target:0x%08x", (hasSubmenu ? @"Menu" : @"Item"), ([mi isHidden] ? @"H" : @"V"), mi, [mi title], [mi tag], [mi action] ? NSStringFromSelector([mi action]) : @"#", [mi target]);
    }
    
    // newItem = [[NSMenuItem alloc] init];
@@ -225,7 +225,7 @@ static NSString  *gNewMenuName = @"Templates";
    [swatch release];
 }
 
-- (BOOL)validateMenuItem:(id <NSMenuItem>)menuItem
+- (BOOL)validateMenuItem:(id <NSMenuItemValidation>)menuItem
 {
    SEL  theAction = [(NSMenuItem *)menuItem action];
    
