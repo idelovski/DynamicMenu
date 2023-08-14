@@ -1,0 +1,404 @@
+TDynamicMenu
+v7
+r0
+t713720347.843160
+cCheck dependencies
+cProcessInfoPlistFile /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist DynamicMenu-Info.plist
+cStripNIB /Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib
+cProcessPCH /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch.gch DynamicMenu_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o /Users/idelovski/Desktop/DynamicMenu/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o /Users/idelovski/Desktop/DynamicMenu/MenuController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu normal x86_64
+cTouch /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/idelovski/Desktop/DynamicMenu/DynamicMenu_Prefix.pch
+c000000005F5FCAC90000000000000093
+t1600113353
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib
+c0000000064DA45600000000000000088
+t1692026208
+s136
+
+N/Users/idelovski/Desktop/DynamicMenu/MenuController.h
+c0000000064CFA5790000000000000625
+t1691329913
+s1573
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/DynamicMenu/MenuController.m
+c0000000064DA4A990000000000001E81
+t1692027545
+s7809
+i"MenuController.h"
+
+N/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app
+t1692027547
+s102
+
+N/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist
+t1691246384
+s1296
+
+N/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu
+t1692027547
+s24512
+
+N/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/PkgInfo
+t1691246384
+s8
+
+N/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/English.lproj/MainMenu.nib
+t1692026216
+s28880
+
+N/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/DynamicMenu.LinkFileList
+c0000000064DA345700000000000000EE
+t1692021847
+s238
+
+N/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o
+t1692027546
+s46824
+
+N/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o
+t1692021848
+s4992
+
+N/Users/idelovski/Desktop/DynamicMenu/main.m
+c0000000064CFA3F80000000000000100
+t1691329528
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu-Info.plist
+c0000000064CE5E5E00000000000003EA
+t1691246174
+s1002
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu_Prefix.pch
+c000000005F5FCAC90000000000000093
+t1600113353
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib
+c0000000064CFA4C00000000000000088
+t1691329728
+s136
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h
+c0000000064CFA5790000000000000625
+t1691329913
+s1573
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m
+c0000000064CFAAEC0000000000001AA5
+t1691331308
+s6821
+i"MenuController.h"
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app
+t1691331309
+s102
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist
+t1691246384
+s1296
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu
+t1691331309
+s24616
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/PkgInfo
+t1691246384
+s8
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/DynamicMenu-Info.plist
+t1691246384
+s1002
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/English.lproj/MainMenu.nib
+t1691329917
+s28965
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app
+t1691246181
+s102
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/MacOS/EventMon
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/DynamicMenu-Info.plist
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/DynamicMenu.LinkFileList
+c0000000064CE5F300000000000000122
+t1691246384
+s290
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/EventMon.LinkFileList
+c0000000064CE5EE40000000000000122
+t1691246308
+s290
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o
+t1691331309
+s45280
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o
+t1691329918
+s5048
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m
+c0000000064CFA3F80000000000000100
+t1691329528
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch.gch
+t1692021848
+s54306576
+
+N/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch.gch
+t1691246388
+s54306576
+
+N/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMon_Prefix-fckdhlkewbjpxpapzmlavkdvquwp/EventMon_Prefix.pch.gch
+t2
+s0
+
+NDynamicMenu-Info.plist
+c0000000064CE5E5E00000000000003EA
+t1691246174
+s1002
+
+NEventMon-Info.plist
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies713720347#713720347#0(0"0(0#1#0"8625119168#0"0#
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s713024109.141719
+e713024109.628076
+r1
+xCompileC
+xbuild/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:1:
+o/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h:48: warning: protocol 'NSMenuItem' is deprecated
+o/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:207: warning: protocol 'NSMenuItem' is deprecated
+o/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m: In function '-[MenuController validateMenuItem:]':
+o/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:209: warning: '-action' not found in protocol(s)
+lSLF07#2@87"Compile /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m713024109#713024109#0(625"In file included from /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:1:/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h:48: warning: protocol 'NSMenuItem' is deprecated/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:207: warning: protocol 'NSMenuItem' is deprecated/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m: In function '-[MenuController validateMenuItem:]':/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m:209: warning: '-action' not found in protocol(s)3(22@35"Protocol 'NSMenuItem' is deprecated713024109#105#129#2(7@101"In file included from /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m713024109#18446744073709551615#0#0(6@79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m713024108#1#0#1#0#0"0(13@118"Protocol 'NSMenuItem' is deprecated in /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h713024109#18446744073709551615#0#0(6@79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h713022713#48#0#48#0#0"0(6@79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h713022713#48#0#48#0#0"0(22@35"Protocol 'NSMenuItem' is deprecated713024109#234#130#0(6@79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m713024108#207#0#207#0#0"0(22@34"'-action' not found in protocol(s)713024109#496#129#0(6@79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m713024108#209#0#209#0#28"'*' not found in protocol(s)0(0#0#79"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m8635134336#1836"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap" -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap" "-F/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/include" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources" -include /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch -c "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m" -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o"0#
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o /Users/idelovski/Desktop/DynamicMenu/MenuController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s713720346.032434
+e713720346.227891
+r1
+xCompileC
+xbuild/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o
+x/Users/idelovski/Desktop/DynamicMenu/MenuController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/idelovski/Desktop/DynamicMenu/MenuController.m:1:
+o/Users/idelovski/Desktop/DynamicMenu/MenuController.h:48: warning: protocol 'NSMenuItem' is deprecated
+o/Users/idelovski/Desktop/DynamicMenu/MenuController.m:228: warning: protocol 'NSMenuItem' is deprecated
+lSLF07#2@61"Compile /Users/idelovski/Desktop/DynamicMenu/MenuController.m713720346#713720346#0(286"In file included from /Users/idelovski/Desktop/DynamicMenu/MenuController.m:1:/Users/idelovski/Desktop/DynamicMenu/MenuController.h:48: warning: protocol 'NSMenuItem' is deprecated/Users/idelovski/Desktop/DynamicMenu/MenuController.m:228: warning: protocol 'NSMenuItem' is deprecated2(22@35"Protocol 'NSMenuItem' is deprecated713720346#79#103#2(7@75"In file included from /Users/idelovski/Desktop/DynamicMenu/MenuController.m713720346#18446744073709551615#0#0(6@53"/Users/idelovski/Desktop/DynamicMenu/MenuController.m713720345#1#0#1#0#0"0(13@92"Protocol 'NSMenuItem' is deprecated in /Users/idelovski/Desktop/DynamicMenu/MenuController.h713720346#18446744073709551615#0#0(6@53"/Users/idelovski/Desktop/DynamicMenu/MenuController.h713022713#48#0#48#0#0"0(6@53"/Users/idelovski/Desktop/DynamicMenu/MenuController.h713022713#48#0#48#0#0"0(22@35"Protocol 'NSMenuItem' is deprecated713720346#182#104#0(6@53"/Users/idelovski/Desktop/DynamicMenu/MenuController.m713720345#228#0#228#0#0"0(0#0#53"/Users/idelovski/Desktop/DynamicMenu/MenuController.m8618932000#1528"    cd /Users/idelovski/Desktop/DynamicMenu    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap -F/Users/idelovski/Desktop/DynamicMenu/build/Debug -I/Users/idelovski/Desktop/DynamicMenu/build/Debug/include -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64 -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources -include /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch -c /Users/idelovski/Desktop/DynamicMenu/MenuController.m -o /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o0#
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s713022717.952654
+e713022718.295064
+r1
+xCompileC
+xbuild/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m713022717#713022718#0(0"0(0#0#69"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m8634051520#1816"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap" -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap" "-F/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/include" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources" -include /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch -c "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m" -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o /Users/idelovski/Desktop/DynamicMenu/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s713714648.742173
+e713714648.802797
+r1
+xCompileC
+xbuild/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o
+x/Users/idelovski/Desktop/DynamicMenu/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/idelovski/Desktop/DynamicMenu/main.m713714648#713714648#0(0"0(0#0#43"/Users/idelovski/Desktop/DynamicMenu/main.m8606170432#1508"    cd /Users/idelovski/Desktop/DynamicMenu    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap -F/Users/idelovski/Desktop/DynamicMenu/build/Debug -I/Users/idelovski/Desktop/DynamicMenu/build/Debug/include -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64 -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources -include /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch -c /Users/idelovski/Desktop/DynamicMenu/main.m -o /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o0#
+
+CCopyPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/DynamicMenu-Info.plist" DynamicMenu-Info.plist
+s712939184.725755
+e712939184.822855
+r1
+xCopyPlistFile
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/DynamicMenu-Info.plist
+xDynamicMenu-Info.plist
+lSLF07#2@27"Copy DynamicMenu-Info.plist712939184#712939184#0(0"0(0#0#85"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu-Info.plist8605756640#307"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist DynamicMenu-Info.plist --outdir "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources"0#
+
+CCopyPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/DynamicMenu-Info.plist" DynamicMenu-Info.plist
+r0
+
+CLd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu" normal x86_64
+s713024109.628185
+e713024109.673542
+r1
+xLd
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu
+xnormal
+xx86_64
+lSLF07#2@122"Link /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu713024109#713024109#0(0"0(0#0#0"8602870624#692"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug" "-F/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug" -filelist "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/DynamicMenu.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu"0#
+
+CLd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/MacOS/EventMon" normal x86_64
+r0
+
+CLd /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu normal x86_64
+s713720347.822202
+e713720347.841589
+r1
+xLd
+x/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu713720347#713720347#0(0"0(0#0#0"8613533664#552"    cd /Users/idelovski/Desktop/DynamicMenu    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/idelovski/Desktop/DynamicMenu/build/Debug -F/Users/idelovski/Desktop/DynamicMenu/build/Debug -filelist /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/DynamicMenu.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/MacOS/DynamicMenu0#
+
+CProcessInfoPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist" DynamicMenu-Info.plist
+s712939184.713765
+e712939184.723490
+r1
+xProcessInfoPlistFile
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist
+xDynamicMenu-Info.plist
+lSLF07#2@30"Process DynamicMenu-Info.plist712939184#712939184#0(0"0(0#0#85"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu-Info.plist8606669632#400"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    builtin-infoPlistUtility DynamicMenu-Info.plist -genpkginfo "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist" DynamicMenu-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist" EventMon-Info.plist
+s712939108.384872
+e712939108.387202
+r0
+xProcessInfoPlistFile
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist
+xEventMon-Info.plist
+lSLF07#2@27"Process EventMon-Info.plist712939108#712939108#0(205"error: could not read data from '/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist': The file “EventMon-Info.plist” couldn’t be opened because there is no such file.1(4@197"could not read data from '/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist': The file “EventMon-Info.plist” couldn’t be opened because there is no such file.712939108#18446744073709551615#0#0(6@0"712939108#0#0#0#0#0"0(0#0#82"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist8601325504#391"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    builtin-infoPlistUtility EventMon-Info.plist -genpkginfo "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist"1#
+
+CProcessInfoPlistFile /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Info.plist DynamicMenu-Info.plist
+r0
+
+CProcessPCH /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch.gch DynamicMenu_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s713714647.470960
+e713714648.742117
+r1
+xProcessPCH
+x/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch.gch
+xDynamicMenu_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile DynamicMenu_Prefix.pch713714647#713714648#0(0"0(0#0#59"/Users/idelovski/Desktop/DynamicMenu/DynamicMenu_Prefix.pch7521968422627009536#1412"    cd /Users/idelovski/Desktop/DynamicMenu    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap -iquote /Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap -F/Users/idelovski/Desktop/DynamicMenu/build/Debug -I/Users/idelovski/Desktop/DynamicMenu/build/Debug/include -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64 -I/Users/idelovski/Desktop/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources -c /Users/idelovski/Desktop/DynamicMenu/DynamicMenu_Prefix.pch -o /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-bcbmfcheaypzocbdihbbavbskycj/DynamicMenu_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch.gch DynamicMenu_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s712939184.846300
+e712939188.426898
+r1
+xProcessPCH
+x/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch.gch
+xDynamicMenu_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile DynamicMenu_Prefix.pch712939184#712939188#0(0"0(0#0#85"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu_Prefix.pch8604457600#1692"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-generated-files.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-own-target-headers.hmap" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-all-target-headers.hmap" -iquote "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DynamicMenu-project-headers.hmap" "-F/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/include" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources/x86_64" "-I/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/DerivedSources" -c "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu_Prefix.pch" -o /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicMenu_Prefix-dizmyatotmkgxdedgsgrvsemezsn/DynamicMenu_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMon_Prefix-fckdhlkewbjpxpapzmlavkdvquwp/EventMon_Prefix.pch.gch EventMon_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CStripNIB "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib"
+s713022717.827806
+e713022717.952421
+r1
+xStripNIB
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib713022717#713022717#0(0"0(0#0#89"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib8634253312#377"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    /Developer/usr/bin/ibtool --strip "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib"0#
+
+CStripNIB /Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib
+s713719016.077472
+e713719016.132934
+r1
+xStripNIB
+x/Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib713719016#713719016#0(0"0(0#0#63"/Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib8619588128#293"    cd /Users/idelovski/Desktop/DynamicMenu    /Developer/usr/bin/ibtool --strip /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/idelovski/Desktop/DynamicMenu/English.lproj/MainMenu.nib0#
+
+CTouch "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app"
+s713024109.673634
+e713024109.676610
+r1
+xTouch
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app
+lSLF07#2@96"Touch /Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app713024109#713024109#0(0"0(0#0#0"8635844640#187"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    /usr/bin/touch -c "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/DynamicMenu.app"0#
+
+CTouch "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app"
+r0
+
+CTouch /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app
+s713720347.841636
+e713720347.843145
+r1
+xTouch
+x/Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app
+lSLF07#2@70"Touch /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app713720347#713720347#0(0"0(0#0#0"8623005792#131"    cd /Users/idelovski/Desktop/DynamicMenu    /usr/bin/touch -c /Users/idelovski/Desktop/DynamicMenu/build/Debug/DynamicMenu.app0#
+

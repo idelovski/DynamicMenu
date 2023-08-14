@@ -1,0 +1,135 @@
+TDynamicMenu
+v7
+r2
+t712939108.387397
+cCheck dependencies
+cProcessInfoPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist" EventMon-Info.plist
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/DynamicMenu-Info.plist
+c0000000064CE5E5E00000000000003EA
+t1691246174
+s1002
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib
+c0000000064CE5D6B00000000000000AA
+t1691245931
+s170
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.h
+c000000003C986BA5000000000000057C
+t1016621989
+s1404
+i<Cocoa/Cocoa.h>
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m
+c000000003C986DE3000000000000180C
+t1016622563
+s6156
+i"MenuController.h"
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app
+t1691246181
+s102
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/MacOS/EventMon
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/DynamicMenu-Info.plist
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/EventMon.LinkFileList
+c0000000064CE5EE40000000000000122
+t1691246308
+s290
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m
+c000000003C98411500000000000000FD
+t1016611093
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMon_Prefix-fckdhlkewbjpxpapzmlavkdvquwp/EventMon_Prefix.pch.gch
+t2
+s0
+
+NEventMon-Info.plist
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies712939108#712939108#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/MenuController.o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/MenuController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DynamicMenu.build/Debug/DynamicMenu.build/Objects-normal/x86_64/main.o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Resources/DynamicMenu-Info.plist" DynamicMenu-Info.plist
+r0
+
+CLd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/MacOS/EventMon" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist" EventMon-Info.plist
+s712939108.384872
+e712939108.387202
+r0
+xProcessInfoPlistFile
+x/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist
+xEventMon-Info.plist
+lSLF07#2@27"Process EventMon-Info.plist712939108#712939108#0(205"error: could not read data from '/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist': The file “EventMon-Info.plist” couldn’t be opened because there is no such file.1(4@197"could not read data from '/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist': The file “EventMon-Info.plist” couldn’t be opened because there is no such file.712939108#18446744073709551615#0#0(6@0"712939108#0#0#0#0#0"0(0#0#82"/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/EventMon-Info.plist8601325504#391"    cd "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu"    builtin-infoPlistUtility EventMon-Info.plist -genpkginfo "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app/Contents/Info.plist"1#
+
+CProcessPCH /var/folders/L7/L75cIwayGzeX0koTLvoACE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMon_Prefix-fckdhlkewbjpxpapzmlavkdvquwp/EventMon_Prefix.pch.gch EventMon_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CStripNIB "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/English.lproj/MainMenu.nib"
+r0
+
+CTouch "/Users/idelovski/Desktop/MyCocoaDev2022/Chapter 16/DynamicMenu/build/Debug/EventMon.app"
+r0
+
