@@ -9,7 +9,7 @@ So I created a new project as the original could not be used with the a newer Xc
 
 Then I dragged all the needed files to it and built it. Well, after a while I noticed a ghost menu item.
 
-In the nib file, there so Close All item in the File menu, but when I look from the inside there is.
+In the nib file, there is no Close All item in the File menu, but when I look from the inside there is.
 
 So, the File menu has Close item and then Save, but...
 
