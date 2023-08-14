@@ -131,7 +131,7 @@ static NSString  *gNewMenuName = @"Templates";
       NSLog (@"%@ 0x%08x:  \"%@\"  tag:%d  action:%@  target:0x%08x", (hasSubmenu ? @"Menu" : @"Item"), (int)item, [item title], (int)[item tag], [item action] ? NSStringFromSelector([item action]) : @"#", (int)[item target]);
       if ([item action] == @selector(revertDocumentToSaved:)) {
          revertItem = item;
-         insertIndex = [fileMenu indexOfItem:revertItem] + 1;
+         insertIndex = (int)[fileMenu indexOfItem:revertItem] + 1;
       }
    }
    
@@ -147,7 +147,7 @@ static NSString  *gNewMenuName = @"Templates";
 
 - (IBAction)itemTypeChanged:(id)sender  // Upper popUp
 {
-   int        tag = [[sender selectedCell] tag];
+   int        tag = (int)[[sender selectedCell] tag];
    NSWindow  *theWindow = [itemNameField window];
    
    changingType = YES;
@@ -194,7 +194,7 @@ static NSString  *gNewMenuName = @"Templates";
 - (IBAction)colorPopUpChanged:(id)sender
 {
    NSMenuItem *selectedItem = [colorPopUp selectedItem];
-   NSNumber *tagKey = [NSNumber numberWithInt:[selectedItem tag]];
+   NSNumber *tagKey = [NSNumber numberWithInt:(int)[selectedItem tag]];
    [selectedColorWell setColor:[colors objectForKey:tagKey]];
    [selectedColorField setStringValue:[colorNames objectForKey:tagKey]];
 }
