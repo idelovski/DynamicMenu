@@ -19,7 +19,7 @@ So, the File menu has Close item and then Save, but...
    - NSEnumerator  *enumerator = [[fileMenu itemArray] objectEnumerator];
 3) Whatever I try, the Close All is in there
 4) Nib file doesn't have it
-5) Finally, File menu inside the build application does not have it
+5) Finally, File menu inside the built application does not have it
 6) Well, a mistery!
 
 Edit:
