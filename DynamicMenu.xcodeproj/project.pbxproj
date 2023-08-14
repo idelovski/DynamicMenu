@@ -23,7 +23,6 @@
 		EB1420F72A7E957300FCB64C /* MenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuController.m; sourceTree = "<group>"; };
 		EB1420FD2A7E959D00FCB64C /* DynamicMenu_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DynamicMenu_Prefix.pch; sourceTree = "<group>"; };
 		EB1420FE2A7E95BF00FCB64C /* DynamicMenu-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DynamicMenu-Info.plist"; sourceTree = "<group>"; };
-		EBCEBC262A8A832C00F48BA8 /* 4Dummies */ = {isa = PBXFileReference; lastKnownFileType = folder; name = 4Dummies; path = ../4Dummies; sourceTree = "<group>"; };
 		EBCEBC2D2A8A8A7500F48BA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/MainMenu.nib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,7 +75,6 @@
 		29B97314FDCFA39411CA2CEA /* EventMon */ = {
 			isa = PBXGroup;
 			children = (
-				EBCEBC262A8A832C00F48BA8 /* 4Dummies */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
